@@ -7,6 +7,10 @@ nav > li {
 }
 nav li>a{
     text-decoration: none;
+    color: black; 
+}
+nav li:hover {
+    background-color: green ;
 }
 footer{
     text-align: center;
